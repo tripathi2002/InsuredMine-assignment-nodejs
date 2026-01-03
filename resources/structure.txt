@@ -1,0 +1,32 @@
+insuredmine-assignment/
+│
+├── src/
+│   ├── app.js
+│   ├── server.js
+│   ├── config/
+│   │   └── db.js
+│   ├── models/
+│   │   ├── Agent.js
+│   │   ├── User.js
+│   │   ├── Account.js
+│   │   ├── LOB.js
+│   │   ├── Carrier.js
+│   │   ├── Policy.js
+│   │   └── ScheduledMessage.js
+│   ├── routes/
+│   │   ├── upload.routes.js
+│   │   ├── policy.routes.js
+│   │   └── schedule.routes.js
+│   ├── controllers/
+│   ├── workers/
+│   │   └── upload.worker.js
+│   ├── services/
+│   │   ├── upload.service.js
+│   │   └── cpuMonitor.service.js
+│   └── utils/
+│       └── fileParser.js
+│
+├── ecosystem.config.js   (PM2)
+├── package.json
+├── README.md
+└── .env
