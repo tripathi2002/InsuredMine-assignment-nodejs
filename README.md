@@ -48,12 +48,12 @@ src/
 ├── package.json
 └── .env
 
-
 ---
 
 ## ⚙️ Environment Setup
 
 ### Prerequisites
+
 - Node.js (>= 18)
 - MongoDB (local)
 
@@ -62,7 +62,6 @@ src/
 PORT=3000
 DB_CONNECTION_STRING=mongodb://localhost:27017/insuredmine
 NODE_ENV=development
-
 
 ---
 
@@ -221,3 +220,4 @@ Response:
 👤 Author
 
 Vibhu Tripathi
+```
