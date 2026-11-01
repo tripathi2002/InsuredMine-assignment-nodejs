@@ -22,7 +22,7 @@
     "multer": "^2.0.2",
     "node-cron": "^4.2.1",
     "pino": "^10.1.0",
-    "slugify": "^1.6.6",
+    "slugify": "^1.6.9",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   },
   "devDependencies": {
